@@ -1,0 +1,36 @@
+[
+    {
+        "title": "The Godfather",
+        "content": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola. The story follows a young and successful mobster, Marlon Brando, who is brought into the family business of the Las Vegas Strip after his father is killed. The mobster is a large-time criminal figure, and is a key figure in the fictionalized criminal underworld of the American city.",
+        "status": "released",
+        "tags": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "author": "Francis Ford Coppola"
+    },
+    {
+        "title": "Avergers: Endgame",
+        "content": "Avergers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team of the same name. It is the sequel to Avengers: Infinity War and the third film in the Marvel Cinematic Universe (MCU).",
+        "status": "Draft",
+        "tags": [
+            "crime",
+            "Science Fiction",
+            "thriller"
+        ],
+        "author": "Anthony Russo"
+    },
+    {
+        "title": "The Dark Knight",
+        "content": "The Dark Knight is a 2008 superhero film based on the DC Comics superhero Batman, directed by Christopher Nolan. It is the first installment in the DC Extended Universe (DCEU), and the first film in the franchise.",
+        "status": "released",
+        "tags": [
+            "crime",
+            "Science Fiction",
+            "thriller",
+            "action"
+        ],
+        "author": "Christopher Nolan"
+    }
+]
